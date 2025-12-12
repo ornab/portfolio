@@ -14,27 +14,28 @@ function About() {
           <div className="about-text">
             <h3>Who I Am</h3>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod
-              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-              quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+              At E.ON Digital Technology, I work in the Data & AI Infrastructure team, where I design,
+              build, and manage production data pipelines using Microsoft Fabric, Azure Data Factory,
+              Lakehouse, Warehouse, Spark SQL & PySpark Notebooks, Python, and PowerShell.
             </p>
             <p>
-              Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-              eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
-              in culpa qui officia deserunt mollit anim id est laborum.
+              I focus on automating data workflows, lifecycle management, and capacity optimization
+              by integrating Fabric with Azure-native resources. I lead Data Governance initiatives
+              and build alerting systems connected to Power BI for real-time reporting. My background
+              in software engineering enables me to bridge the gap between data platforms and business needs.
             </p>
             <div className="about-stats">
               <div className="stat">
-                <span className="stat-number">10+</span>
+                <span className="stat-number">5+</span>
                 <span className="stat-label">Years Experience</span>
               </div>
               <div className="stat">
-                <span className="stat-number">50+</span>
-                <span className="stat-label">Projects Completed</span>
+                <span className="stat-number">MSc</span>
+                <span className="stat-label">Data Science</span>
               </div>
               <div className="stat">
-                <span className="stat-number">30+</span>
-                <span className="stat-label">Happy Clients</span>
+                <span className="stat-number">Azure</span>
+                <span className="stat-label">AI Certified</span>
               </div>
             </div>
           </div>

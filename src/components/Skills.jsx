@@ -3,28 +3,29 @@ import './Skills.css';
 function Skills() {
   const skillCategories = [
     {
-      title: 'Technical Skills',
+      title: 'Data & Analytics',
       skills: [
-        { name: 'Skill One', level: 90 },
-        { name: 'Skill Two', level: 85 },
-        { name: 'Skill Three', level: 80 },
-        { name: 'Skill Four', level: 75 }
+        { name: 'PySpark', level: 90 },
+        { name: 'T-SQL / Spark SQL', level: 85 },
+        { name: 'Power BI', level: 90 },
+        { name: 'Python', level: 85 }
       ]
     },
     {
-      title: 'Professional Skills',
+      title: 'Cloud & Infrastructure',
       skills: [
-        { name: 'Communication', level: 95 },
-        { name: 'Leadership', level: 85 },
-        { name: 'Problem Solving', level: 90 },
-        { name: 'Time Management', level: 80 }
+        { name: 'Microsoft Fabric', level: 90 },
+        { name: 'Azure Data Factory', level: 85 },
+        { name: 'Azure Services', level: 80 },
+        { name: 'Data Governance', level: 85 }
       ]
     }
   ];
 
   const tools = [
-    'Tool 1', 'Tool 2', 'Tool 3', 'Tool 4',
-    'Tool 5', 'Tool 6', 'Tool 7', 'Tool 8'
+    'Microsoft Fabric', 'Azure Data Factory', 'Power BI', 'PySpark',
+    'Python', 'T-SQL', 'Lakehouse', 'Warehouse',
+    'PowerShell', 'Git', 'PHP', 'Laravel'
   ];
 
   return (

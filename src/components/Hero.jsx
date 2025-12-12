@@ -13,11 +13,11 @@ function Hero() {
       <div className="hero-content">
         <div className="hero-text">
           <p className="hero-greeting">Hello, I'm</p>
-          <h1 className="hero-name">John Doe</h1>
-          <h2 className="hero-title">Professional Title</h2>
+          <h1 className="hero-name">Hasan Zamil Ahmed</h1>
+          <h2 className="hero-title">Data Analytics Engineer</h2>
           <p className="hero-description">
-            A passionate professional with expertise in delivering exceptional results.
-            I specialize in creating innovative solutions that drive success and exceed expectations.
+            Data Science Master's student with a passion for data analytics, automation, and business intelligence.
+            Building production data pipelines and driving data-driven decision-making at E.ON Digital Technology.
           </p>
           <div className="hero-buttons">
             <button className="btn btn-primary" onClick={scrollToContact}>

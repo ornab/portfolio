@@ -6,8 +6,8 @@ function Footer() {
   return (
     <footer className="footer">
       <div className="footer-container">
-        <p>&copy; {currentYear} John Doe. All rights reserved.</p>
-        <p className="footer-tagline">Built with passion and creativity</p>
+        <p>&copy; {currentYear} Hasan Zamil Ahmed. All rights reserved.</p>
+        <p className="footer-tagline">Data Analytics Engineer | MSc Data Science</p>
       </div>
     </footer>
   );
